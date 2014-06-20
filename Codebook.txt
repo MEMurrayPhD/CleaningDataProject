@@ -1,0 +1,11 @@
+This codebook describes the variables listed in the final.txt tidy data set from the Coursera Cleaning Data Course project. 
+
+The variables are as follows:
+
+Subject: What subject performed the measurements. 
+
+Activity: The activity that the subject was performing when the data was measured. 
+
+Type: Whether the subject was included in the test or training data set. 
+
+The rest of the columns consist of the numerical average of the data for the subject and activity, in different parameters measured by the gyroscope and accelerometer in the smart phone. 
